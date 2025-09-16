@@ -4,7 +4,7 @@ public class ReverseNumberRecursion {
     static int sum = 0;
     static void reverseNum2(int n){
         if(n==0){
-            return; 
+            return;
         }
         int rem = n%10;
         sum = sum * 10 + rem;
