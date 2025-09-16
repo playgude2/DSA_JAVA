@@ -2,7 +2,7 @@ package easy;
 
 public class SumOfNumbersRecursion {
     public static void main(String[] args) {
-        System.out.println(sumNumbers(134021212));
+        System.out.println(sumNumbers(1340212121));
     }
 
     static int sumNumbers(int n){
