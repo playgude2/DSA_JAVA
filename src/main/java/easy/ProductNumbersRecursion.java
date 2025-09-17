@@ -9,6 +9,6 @@ public class ProductNumbersRecursion {
         if(n <= 1){
             return 1;
         }
-        return productNum(n/10) * (n%10);
+        return productNum(n/10)*(n%10);
     }
 }
