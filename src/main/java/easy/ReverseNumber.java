@@ -6,7 +6,8 @@ public class ReverseNumber {
     }
 
     public static void main(String[] args) {
-        int num = 3421;
+        int num = 342132;
         System.out.println("Reversed: " + reverse(num, 0)); // Output: 1243
+
     }
 }
