@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76e3af4-97f3-4716-a67e-e328f5f75956" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/SumOfNumbersRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/SumOfNumbersRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/ProductNumbersRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/ProductNumbersRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +45,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/pranavlaygude/Desktop/Workspace/DSA/DSA_JAVA/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ReverseNumberRecursion">
-    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.FactorialNumber" />
+  <component name="RunManager" selected="Application.BinarySearchIterative">
+    <configuration name="BinarySearchIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.BinarySearchIterative" />
       <module name="DSA_JAVA.main" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers1toNRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Numbers1toNRecursion" />
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.FactorialNumber" />
       <module name="DSA_JAVA.main" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySearchIterative" />
         <item itemvalue="Application.ReverseNumberRecursion" />
         <item itemvalue="Application.ProductNumbersRecursion" />
         <item itemvalue="Application.SumOfNumbersRecursion" />
         <item itemvalue="Application.FactorialNumber" />
-        <item itemvalue="Application.Numbers1toNRecursion" />
       </list>
     </recent_temporary>
   </component>
