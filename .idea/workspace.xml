@@ -45,7 +45,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/pranavlaygude/Desktop/Workspace/DSA/DSA_JAVA/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearchIterative">
+  <component name="RunManager" selected="Application.ReverseNumber">
     <configuration name="BinarySearchIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.BinarySearchIterative" />
       <module name="DSA_JAVA.main" />
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.FactorialNumber" />
+    <configuration name="ProductNumbersRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.ProductNumbersRecursion" />
       <module name="DSA_JAVA.main" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductNumbersRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.ProductNumbersRecursion" />
+    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.ReverseNumber" />
       <module name="DSA_JAVA.main" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseNumber" />
         <item itemvalue="Application.BinarySearchIterative" />
         <item itemvalue="Application.ReverseNumberRecursion" />
         <item itemvalue="Application.ProductNumbersRecursion" />
         <item itemvalue="Application.SumOfNumbersRecursion" />
-        <item itemvalue="Application.FactorialNumber" />
       </list>
     </recent_temporary>
   </component>
