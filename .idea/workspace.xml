@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76e3af4-97f3-4716-a67e-e328f5f75956" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/easy/RevNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/pranavlaygude/Desktop/Workspace/DSA/DSA_JAVA/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DigitProduct">
+  <component name="RunManager" selected="Application.RevNumber">
     <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.DigitProduct" />
       <module name="DSA_JAVA.main" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.ReverseNumber" />
+    <configuration name="RevNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.RevNumber" />
       <module name="DSA_JAVA.main" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RevNumber" />
         <item itemvalue="Application.DigitProduct" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.factNumber" />
         <item itemvalue="Application.Nto1" />
-        <item itemvalue="Application.ReverseNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +154,11 @@
           <line>10</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/DigitProduct.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/easy/SumOfNumbersRecursion.java</url>
           <line>3</line>
@@ -180,6 +185,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/easy/DigitProduct.java</url>
+          <line>3</line>
+          <properties class="easy.DigitProduct" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
