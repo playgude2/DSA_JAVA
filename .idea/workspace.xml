@@ -44,9 +44,9 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/pranavlaygude/Desktop/Workspace/DSA/DSA_JAVA/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SumOfDigits">
-    <configuration name="BinarySearchIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.BinarySearchIterative" />
+  <component name="RunManager" selected="Application.DigitProduct">
+    <configuration name="DigitProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.DigitProduct" />
       <module name="DSA_JAVA.main" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DigitProduct" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.factNumber" />
         <item itemvalue="Application.Nto1" />
         <item itemvalue="Application.ReverseNumber" />
-        <item itemvalue="Application.BinarySearchIterative" />
       </list>
     </recent_temporary>
   </component>

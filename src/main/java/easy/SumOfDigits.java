@@ -9,6 +9,6 @@ public class SumOfDigits {
         if(n == 0){
             return 0;
         }
-        return sum(n/10)+ n%10;
+        return sum(n/10)+ (n%10);
     }
 }
