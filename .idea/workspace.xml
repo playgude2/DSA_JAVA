@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f76e3af4-97f3-4716-a67e-e328f5f75956" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/easy/CountZerosRecursion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/easy/CountZerosRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/CountZerosRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/pranavlaygude/Desktop/Workspace/DSA/DSA_JAVA/src/main/java/org/example/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountZerosRecursion">
+  <component name="RunManager" selected="Application.PrintNumber">
     <configuration name="CountZerosRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.CountZerosRecursion" />
       <module name="DSA_JAVA.main" />
@@ -65,6 +64,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.PrintNumber" />
+      <module name="DSA_JAVA.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="factNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.factNumber" />
-      <module name="DSA_JAVA.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrintNumber" />
         <item itemvalue="Application.CountZerosRecursion" />
         <item itemvalue="Application.RevNumber" />
         <item itemvalue="Application.DigitProduct" />
         <item itemvalue="Application.SumOfDigits" />
-        <item itemvalue="Application.factNumber" />
       </list>
     </recent_temporary>
   </component>
