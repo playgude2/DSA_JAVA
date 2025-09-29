@@ -5,6 +5,8 @@ public class PrintNumber {
 //        System.out.println(printNum(5));
         printReverserNum(5);
         printNum(1);
+
+        
     }
 
 

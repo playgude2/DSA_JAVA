@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f76e3af4-97f3-4716-a67e-e328f5f75956" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/easy/CountZerosRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/easy/CountZerosRecursion.java" afterDir="false" />
-    </list>
+    <list default="true" id="f76e3af4-97f3-4716-a67e-e328f5f75956" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,6 +201,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/PrintNumber.java</url>
+          <line>3</line>
+          <properties class="org.example.PrintNumber" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
