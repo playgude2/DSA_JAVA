@@ -6,7 +6,7 @@ public class PrintNumber {
         printReverserNum(5);
         printNum(1);
 
-        
+
     }
 
 
