@@ -1,4 +1,19 @@
 package arrays;
 
 public class LinearSearch {
+    public static void main(String[] args) {
+        int[] arr1 = {1, 34, 12, 76, 9};
+        int target = 1;
+        System.out.println(linearSearch(arr1, target, 0));
+    }
+
+    static boolean linearSearch(int[] arr, int target, int index){
+        if(index == arr.length){
+            return false;
+        }
+        if(arr[index] == target){
+            return true;
+        }
+        return linearSearch(arr, target, index+1);
+    }
 }
