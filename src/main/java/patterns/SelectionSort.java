@@ -16,14 +16,17 @@ public class SelectionSort {
 
         if (c < r) {
             if (arr[c]>arr[maxIndex]){
-                int temp = arr[c];
-                arr[c] = arr[maxIndex];
-                arr[maxIndex] = temp;
+                selectionSort(arr, r, c + 1, c);
+
+            }else {
+                selectionSort(arr, r, c + 1, maxIndex);
             }
-            selectionSort(arr, r, c + 1, maxIndex);
         }
         else{
-            selectionSort(arr, r-1, 0, maxIndex);
+            int temp = arr[maxIndex];
+            arr[maxIndex]=arr[r-1];
+            arr[r-1]=temp;
+            selectionSort(arr, r-1, 0, 0);
         }
     }
 }
