@@ -1,2 +1,4 @@
-package strings;public class Stream {
+package strings;
+
+public class Stream {
 }
