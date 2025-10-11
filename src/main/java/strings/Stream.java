@@ -3,7 +3,8 @@ package strings;
 public class Stream {
     public static void main(String[] args) {
         skip("", "baccdah");
-        System.out.println(skip1("baccdahaaar"));
+        System.out.println(skip1("baccdahaaarqqww"));
+        System.out.println("test");
     }
 
     static void skip(String p, String up){
